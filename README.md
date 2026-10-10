@@ -13,6 +13,7 @@ Aplicativo de temporizador Pomodoro em Python com interface gráfica (customtkin
 O projeto implementa a Técnica Pomodoro, método de gestão de tempo que alterna períodos de foco e de pausa. O aplicativo permite iniciar, pausar e reiniciar o cronômetro e alternar entre os modos Foco e Relaxar.
 
 ## Funcionalidades
+![Screenshot do app](docs/screenshot.png)
 - Modos Foco e Relaxar
 - Iniciar, pausar e reiniciar o cronômetro
 - Interface escura e moderna
